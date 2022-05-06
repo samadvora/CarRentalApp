@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SamadVora_AndroidProject1</string>
+    <string name="samad">SAMAD</string>
+    <string name="welcome">WELCOME,</string>
+    <string name="search_cars">search cars</string>
+    <string name="featured">Featured</string>
+    <string name="About">VIEW CARS</string>
+</resources>

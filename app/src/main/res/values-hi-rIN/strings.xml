@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SamadVora_AndroidProject1</string>
+    <string name="About">के बारे में</string>
+    <string name="featured">देखें कारें</string>
+    <string name="search_cars">कारों को खोजें</string>
+    <string name="welcome">स्वागत हे</string>
+    <string name="samad">समद</string>
+</resources>
